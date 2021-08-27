@@ -130,5 +130,5 @@
   left: 50px;
   width: 200px;
   height: 200px;
-  background: url("https://cdn.qubyt.net/mymanjr.gif") center/80% no-repeat;
+  background: url("https://cdn.qubyt.net/discord-theme/mymanjr.gif") center/80% no-repeat;
 }
