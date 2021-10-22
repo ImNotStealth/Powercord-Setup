@@ -22,7 +22,7 @@
 /* -- Others settings -- */
 
 /* Background image in status picker */
---status-background: url('https://i.imgur.com/yHP6sgj.png');
+--status-background: url('https://cdn.qubyt.net/discord-theme/profile-background');
 
 /* User button spacing */
 --user-buttons-spacing: 8px;
@@ -45,7 +45,7 @@
 
 /* Change bonfire in modals */
 /*--bonfire: url('https://nyri4.github.io/Comfy/assets/bonfire.gif');*/
---bonfire: url('https://github.com/ImNotStealth/ImNotStealth/blob/5f01ae999de878fd0ec0ef7fd2059cd0dcca9236/myman.gif');
+--bonfire: url('https://cdn.qubyt.net/discord-theme/mymanjr.gif');
 
 /* Colored emoji picker */
 --colored-emoji: grayscale(0%); /* Change the value to "100%" if you want the basic one */
